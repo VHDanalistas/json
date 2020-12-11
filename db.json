@@ -9,7 +9,14 @@
                "dataMovimento":"YYYYMMDD",
                "valor":0,
                "historico":"string"
-            }
+            },
+            {
+               "platformaId":"51f12dbc-02e7-41a6-ab81-2381caea0177",
+               "erpId":"01|D MG 01 |001|000000003|1|NF |000010|01",
+               "dataMovimento":"YYYYMMDD",
+               "valor":0,
+               "historico":"string"
+            }           
          ],
          "gerados":[
             {
