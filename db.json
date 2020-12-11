@@ -1,3 +1,23 @@
+[
+   {
+      "tenantId":"string",
+      "cnpj":"string",
+      "boletos":{
+         "pagos":[
+            {
+               "platformaId":"51f12dbc-02e7-41a6-ab81-2381caea0176",
+               "erpId":"01|D MG 01 |001|000000002|1|NF |000010|01",
+               "dataMovimento":"YYYYMMDD",
+               "valor":0,
+               "historico":"string"
+            }
+         ],
+         "gerados":[
+            {
+               "platformaId":"51f12dbc-02e7-41a6-ab81-2381caea0176",
+               "numeroTransacao":"string",
+               "valorTotal":0,
+               "juros":0,
                "parcelas":[
                   {
                      "numeroParcela":0,
