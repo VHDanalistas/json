@@ -1,4 +1,4 @@
- [  {
+   {
       "tenantId":"string",
       "cnpj":"string",
       "boletos":{
@@ -50,4 +50,4 @@
          ]
       }
    }
-]
+
