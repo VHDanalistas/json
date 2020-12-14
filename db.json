@@ -5,16 +5,16 @@
          "pagos":[
             {
                "platformaId":"51f12dbc-02e7-41a6-ab81-2381caea0176",
-               "erpId":"01|D MG 01 |001|000000002|1|NF |000010|01",
-               "dataMovimento":"20201211",
-               "valor":1000,
+               "erpId":"01|D MG 01 |MP |20201202A|1|DP |MP0001|01",
+               "dataMovimento":"20201214",
+               "valor":13333.33,
                "historico":"teste de baixa de titulo1"
             },
             {
                "platformaId":"51f12dbc-02e7-41a6-ab81-2381caea0177",
-               "erpId":"01|D MG 01 |001|000000003|1|NF |000010|01",
+               "erpId":"01|D MG 01 |MP |20201202A|3|DP |MP0001|01",
                "dataMovimento":"20201211",
-               "valor":2000,
+               "valor":13333.34,
                "historico":"teste de baixa de titulo2"
             }           
          ],
