@@ -26,14 +26,23 @@
                "juros":0,
                "parcelas":[
                   {
-                     "numeroParcela":0,
-                     "valorParcela":0,
-                     "dataVencimento":"string",
-                     "dataEmissao":"string",
-                     "numeroLinhaDigitavel":"string",
-                     "numeroCodigoBarras":"string",
-                     "historico":"string"
-                  }
+                     "numeroParcela":1,
+                     "valorParcela":1000,
+                     "dataVencimento":"20201231",
+                     "dataEmissao":"20201215",
+                     "numeroLinhaDigitavel":"54545445445",
+                     "numeroCodigoBarras":"54545454545454",
+                     "historico":"teste titulo 1"
+                  }, 
+                  {
+                     "numeroParcela":2,
+                     "valorParcela":2000,
+                     "dataVencimento":"20210131",
+                     "dataEmissao":"20201215",
+                     "numeroLinhaDigitavel":"245456546546",
+                     "numeroCodigoBarras":"545545454545",
+                     "historico":"teste titulo 2"
+                  }                  
                ],
                "boletoOrigem":[
                   {
