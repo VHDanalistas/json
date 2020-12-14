@@ -21,27 +21,27 @@
          "gerados":[
             {
                "platformaId":"51f12dbc-02e7-41a6-ab81-2381caea0176",
-               "numeroTransacao":"string",
+               "numeroTransacao":"20201214",
                "valorTotal":0,
-               "juros":0,
+               "juros":10000,
                "parcelas":[
                   {
                      "numeroParcela":1,
                      "valorParcela":1000,
-                     "dataVencimento":"20201231",
-                     "dataEmissao":"20201215",
-                     "numeroLinhaDigitavel":"54545445445",
-                     "numeroCodigoBarras":"54545454545454",
-                     "historico":"teste titulo 1"
+                     "dataVencimento":"20210131",
+                     "dataEmissao":"20201214",
+                     "numeroLinhaDigitavel":"",
+                     "numeroCodigoBarras":"",
+                     "historico":"Negociação 20201214 parc 1/2"
                   }, 
                   {
                      "numeroParcela":2,
                      "valorParcela":2000,
-                     "dataVencimento":"20210131",
-                     "dataEmissao":"20201215",
-                     "numeroLinhaDigitavel":"245456546546",
-                     "numeroCodigoBarras":"545545454545",
-                     "historico":"teste titulo 2"
+                     "dataVencimento":"20210237",
+                     "dataEmissao":"20201214",
+                     "numeroLinhaDigitavel":"",
+                     "numeroCodigoBarras":"",
+                     "historico":"Negociação 20201214 parc 2/2"
                   }                  
                ],
                "boletoOrigem":[
