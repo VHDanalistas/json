@@ -57,24 +57,24 @@
          "alterados":[
             {
                "platformaId":"51f12dbc-02e7-41a6-ab81-2381caea0176",
-               "numeroTransacao":"3212323",
-               "numeroParcela":"1",
-               "novoValor":500,
-               "dataVencimento":"20201231",
-               "numeroLinhaDigitavel":"54545454545454",
-               "numeroCodigoBarras":"878787878787",
-               "juros":100,
+               "numeroTransacao":"20201201F",
+               "numeroParcela":"2",
+               "novoValor":5500,
+               "dataVencimento":"20210301",
+               "numeroLinhaDigitavel":"",
+               "numeroCodigoBarras":"",
+               "juros":500,
                "historico":"teste alteracao"
             }, 
             {
                "platformaId":"51f12dbc-02e7-41a6-ab81-2381caea0178",
-               "numeroTransacao":"5457454545",
-               "numeroParcela":"2",
-               "novoValor":700,
-               "dataVencimento":"20210131",
-               "numeroLinhaDigitavel":"54545454545454",
-               "numeroCodigoBarras":"878787878787",
-               "juros":150,
+               "numeroTransacao":"20201201F",
+               "numeroParcela":"3",
+               "novoValor":5700,
+               "dataVencimento":"20210401",
+               "numeroLinhaDigitavel":"",
+               "numeroCodigoBarras":"",
+               "juros":700,
                "historico":"teste alteracao 2"
             }
          ]
